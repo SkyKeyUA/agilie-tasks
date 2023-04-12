@@ -1,0 +1,43 @@
+/** @format */
+
+.game {
+  font-size: 30px;
+}
+.title {
+  margin: 30px 0px;
+}
+.info {
+  &:not(:last-child) {
+    display: flex;
+    margin-bottom: 20px;
+    display: flex;
+  }
+}
+.user {
+  margin-right: 20px;
+}
+.number {
+  background: #e9e6e6;
+  border: 1px solid #a5971a;
+  font-size: 24px;
+}
+.result {
+}
+.btn {
+  font-size: 30px;
+  margin: 0px 100px 20px;
+  padding: 12px;
+  background: #87a007;
+  border: 1px solid #000;
+  border-radius: 20px;
+  transition: all 0.3s ease 0s;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+  &:hover {
+    background: #adcd0f;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    transform: translateY(-2px);
+  }
+  &:active {
+    transform: translateY(0px);
+  }
+}

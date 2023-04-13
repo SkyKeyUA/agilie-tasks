@@ -7,10 +7,9 @@
   margin: 30px 0px;
 }
 .info {
+  display: flex;
   &:not(:last-child) {
-    display: flex;
     margin-bottom: 20px;
-    display: flex;
   }
 }
 .user {
@@ -39,5 +38,6 @@
   }
   &:active {
     transform: translateY(0px);
+    background: #87a007;
   }
 }

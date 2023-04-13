@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agilie-tasks/static/css/main.b6df1c07.css",
+    "main.js": "/agilie-tasks/static/js/main.dff0d5e5.js",
+    "index.html": "/agilie-tasks/index.html",
+    "main.b6df1c07.css.map": "/agilie-tasks/static/css/main.b6df1c07.css.map",
+    "main.dff0d5e5.js.map": "/agilie-tasks/static/js/main.dff0d5e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6df1c07.css",
+    "static/js/main.dff0d5e5.js"
+  ]
+}

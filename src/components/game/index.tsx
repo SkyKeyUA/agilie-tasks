@@ -59,7 +59,7 @@ export const Game = () => {
           onChange={(e) => setNumberOne(e.target.value)}
           value={numberOne}
           type="number"
-          className={styles.number}
+          className={styles.input}
         />
       </div>
       <div className={styles.info}>
@@ -68,7 +68,7 @@ export const Game = () => {
           onChange={(e) => setNumberTwo(e.target.value)}
           value={numberTwo}
           type="number"
-          className={styles.number}
+          className={styles.input}
         />
       </div>
       <button onClick={onClickCompare} className={styles.btn}>

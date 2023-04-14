@@ -1,5 +1,7 @@
 <!-- @format -->
 
+Link gh-pages: https://skykeyua.github.io/agilie-tasks/
+
 Тестове завдання для стажування Full stack JS
 
 Завдання 1. Два друга грають у гру, вони обидва загадують число.

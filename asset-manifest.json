@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/agilie-tasks/static/css/main.b6df1c07.css",
-    "main.js": "/agilie-tasks/static/js/main.dff0d5e5.js",
+    "main.css": "/agilie-tasks/static/css/main.9eb67c29.css",
+    "main.js": "/agilie-tasks/static/js/main.09d7169b.js",
     "index.html": "/agilie-tasks/index.html",
-    "main.b6df1c07.css.map": "/agilie-tasks/static/css/main.b6df1c07.css.map",
-    "main.dff0d5e5.js.map": "/agilie-tasks/static/js/main.dff0d5e5.js.map"
+    "main.9eb67c29.css.map": "/agilie-tasks/static/css/main.9eb67c29.css.map",
+    "main.09d7169b.js.map": "/agilie-tasks/static/js/main.09d7169b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6df1c07.css",
-    "static/js/main.dff0d5e5.js"
+    "static/css/main.9eb67c29.css",
+    "static/js/main.09d7169b.js"
   ]
 }
